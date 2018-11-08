@@ -1,0 +1,28 @@
+body{
+	background: #eee;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#img-div{
+	background: #fff;
+    margin: 0.5%;
+    width: 99%;
+}
+#headline{
+	font-size: 20px;
+}
+#tribute-info ul li{
+	padding-bottom: 5px;
+}
+#headine{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+blockquote p{
+	font-style: italic;
+}
+blockquote a{
+	text-decoration: underline;
+}
+blockquote strong,blockquote a{
+	font-size: 1.2em;
+}
