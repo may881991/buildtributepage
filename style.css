@@ -26,3 +26,11 @@ blockquote a{
 blockquote strong,blockquote a{
 	font-size: 1.2em;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px){
+	.ml-5{
+		margin-left: 0px !important;
+	}
+	.pl-5{
+		padding-left: 0px !important;
+	}
+}
